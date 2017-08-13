@@ -1,0 +1,1 @@
+## [字符串连接算法挑战要求](https://www.w3cschool.cn/codecamp/spinal-tap-case.html#?solution=function%20spinalCase(str)%20%7B%0A%2F%2F%20%22It's%20such%20a%20fine%20line%20between%20stupid%2C%20and%20clever.%22%0A%2F%2F%20--David%20St.%20Hubbins%0Areturn%20str%3B%0A%7D%0A%0AspinalCase('This%20Is%20Spinal%20Tap')%3B%0A)
